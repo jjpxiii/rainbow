@@ -9,7 +9,7 @@ This sample code helps get you started with a simple Node.js web service deploye
 This sample includes:
 
 - README.md - this file
-- buildspec.yml - this file is used by AWS CodeBuild to package your
+- buildspec.yml - this file is used by AWS CodeBuild toeergergreg package your
   application for deployment to AWS Lambda
 - index.js - this file contains the sample Node.js code for the web service
 - template.yml - this file contains the AWS Serverless Application Model (AWS SAM) used
